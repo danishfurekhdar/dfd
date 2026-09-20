@@ -1,5 +1,5 @@
 export const profile = {
-  name: "Researcher Name",
+  name: "Danish Furekh Dar",
   nativeName: "",
   role: "Assistant Professor",
   organization: "Example University",
