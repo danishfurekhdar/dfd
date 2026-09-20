@@ -1,12 +1,11 @@
 export const siteMeta = {
-  brand: "Athena Personal Academic Page",
-  title: "Athena Personal Academic Page",
-  description:
-    "Athena Personal Academic Page is a configurable academic website framework for researchers.",
+  brand: "Danish Furekh Dar",
+  title: "Danish Furekh Dar | Research Profile",
+  description: "Research profile and academic website for Danish Furekh Dar.",
   socialDescription:
-    "A configurable personal academic page framework for publications, projects, teaching, talks, service, and research metrics.",
+    "Research profile of Danish Furekh Dar covering publications, projects, teaching, and research interests.",
   url: "https://danishfurekhdar.github.io/dfd/",
-  image: "https://example.com/images/athena-og.svg",
+  image: "https://avatars.githubusercontent.com/u/68053957?v=4",
   repositoryUrl: "https://github.com/danishfurekhdar/dfd"
 };
 
