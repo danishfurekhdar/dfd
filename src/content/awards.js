@@ -1,6 +1,4 @@
 export const awards = [
-  "Best Paper Honorable Mention, 2026",
-  "Early Career Research Award, 2025",
-  "Outstanding Dissertation Award, 2024",
-  "Open-Source Research Software Award, 2023"
+  "PhD thesis successfully defended, 2025",
+  "Postdoctoral position secured at Shanghai Jiao Tong University, 2025"
 ];

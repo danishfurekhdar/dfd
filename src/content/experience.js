@@ -1,18 +1,18 @@
 export const experience = [
   {
-    period: "2024 - Now",
-    title: "Assistant Professor",
-    place: "Example University",
-    href: "https://example.com/",
-    detail: "Leading a research group on trustworthy, interactive, and open computational systems.",
+    period: "2025 - Present",
+    title: "Postdoctoral Researcher",
+    place: "Shanghai Jiao Tong University",
+    href: "https://www.sjtu.edu.cn/",
+    detail: "Research in strong-field and laser–matter interactions, above-threshold ionization, nondipole effects, and strong-field QED.",
     type: "Academic"
   },
   {
-    period: "2022 - 2023",
-    title: "Research Intern",
-    place: "Example Research Lab",
-    href: "https://example.com/",
-    detail: "Worked on tool-supported evaluation and dataset governance.",
-    type: "Research"
+    period: "2020 - 2025",
+    title: "PhD Researcher",
+    place: "Friedrich Schiller University Jena and Helmholtz Institute Jena",
+    href: "https://www.uni-jena.de/en/",
+    detail: "Doctoral work on theoretical atomic physics, strong-field ionization, and laser-driven electron dynamics.",
+    type: "Academic"
   }
 ];

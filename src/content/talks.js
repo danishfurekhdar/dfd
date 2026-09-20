@@ -1,18 +1,10 @@
 export const talks = [
   {
-    period: "2026.03",
-    title: "Designing Research Websites That Age Well",
-    place: "Example Lab Seminar",
-    href: "https://example.com/talks/research-websites",
-    detail: "Invited talk on maintainable academic publishing surfaces.",
-    type: "Invited"
-  },
-  {
-    period: "2025.11",
-    title: "Reproducibility Beyond the PDF",
-    place: "Open Science Workshop",
-    href: "https://example.com/talks/reproducibility",
-    detail: "Workshop talk on linking papers, code, datasets, demos, and errata.",
-    type: "Workshop"
+    period: "2025",
+    title: "Strong-field ionization and nondipole dynamics",
+    place: "Research Seminars and international scientific meetings",
+    href: "https://scholar.google.com/citations?user=qOhxqbkAAAAJ",
+    detail: "Talks and presentations centered on strong-field ionization, nondipole effects, and laser-driven photoelectron dynamics.",
+    type: "Research"
   }
 ];

@@ -1,16 +1,16 @@
 export const teaching = [
   {
-    period: "Spring 2026",
-    title: "Human-Centered Machine Learning",
-    place: "Example University",
-    href: "https://example.com/courses/hcml",
-    detail: "Graduate seminar covering evaluation, interaction, deployment, and responsible system design."
+    period: "Winter 2024 / 2025",
+    title: "Atomic Quantum Mechanics (AQM)",
+    place: "Friedrich Schiller University Jena",
+    href: "https://www.uni-jena.de/en/",
+    detail: "Teaching and course coordination in quantum and atomic physics topics related to modern atomic theory and laser–matter interaction."
   },
   {
-    period: "Fall 2025",
-    title: "Research Software Engineering",
-    place: "Example University",
-    href: "https://example.com/courses/rse",
-    detail: "Project-based course on robust tools, documentation, testing, and release workflows."
+    period: "Winter 2023 / 2024",
+    title: "Quantum Mechanics (QM)",
+    place: "Friedrich Schiller University Jena",
+    href: "https://www.uni-jena.de/en/",
+    detail: "Instruction in fundamental quantum mechanics, with emphasis on theoretical methods and physical interpretation."
   }
 ];

@@ -30,9 +30,6 @@ export const sections = [
 ];
 
 export const publicationGroups = [
-  "Machine Learning",
-  "Human-Computer Interaction",
-  "Data Systems",
-  "Digital Humanities",
-  "Other"
+  "Strong-Field Physics",
+  "Atomic Physics"
 ];

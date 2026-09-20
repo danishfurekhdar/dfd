@@ -1,35 +1,34 @@
 export const projects = [
   {
-    title: "Open Research Toolkit",
+    title: "StrongFieldDynamics.jl",
     status: "Active",
     summary:
-      "A reusable research software project with documentation, reproducible examples, releases, and an academic artifact trail.",
-    tags: ["Research Software", "Reproducibility", "Documentation"],
+      "A Julia package for strong-field approximation calculations and related laser–matter interaction simulations.",
+    tags: ["Strong-Field Physics", "Julia", "Scientific Computing"],
     links: [
-      { label: "Code", href: "https://github.com/example/open-research-toolkit", stars: 128 },
-      { label: "Release", href: "https://github.com/example/open-research-toolkit/releases" }
+      { label: "Code", href: "https://github.com/danishfurekhdar/StrongFieldDynamics.jl", stars: 2 },
+      { label: "Docs", href: "https://alokasahoo.github.io/StrongFieldDynamics.jl/" }
     ]
   },
   {
-    title: "Dataset Explorer",
-    status: "Prototype",
+    title: "PhD Thesis",
+    status: "Completed",
     summary:
-      "An interactive project page for dataset cards, benchmark splits, model outputs, and reproducibility notes.",
-    tags: ["Dataset", "Benchmark", "Demo"],
+      "Doctoral dissertation on nondipole strong-field processes and above-threshold ionization in intense laser fields.",
+    tags: ["PhD Thesis", "Strong-Field Physics", "Atomic Physics"],
     links: [
-      { label: "Code", href: "https://github.com/example/dataset-explorer", stars: 64 },
-      { label: "Demo", href: "https://example.com/dataset-explorer" }
+      { label: "Repository", href: "https://github.com/danishfurekhdar/PhD-Thesis" }
     ]
   },
   {
-    title: "Course Companion",
-    status: "Maintained",
+    title: "Research Group Website",
+    status: "Active",
     summary:
-      "A lightweight teaching portal for schedules, readings, assignments, office hours, and lecture materials.",
-    tags: ["Teaching", "Courseware", "Students"],
+      "Research group and publication website presenting research outputs, publications, and group activities.",
+    tags: ["Website", "Research", "Publications"],
     links: [
-      { label: "Site", href: "https://example.com/course" },
-      { label: "Slides", href: "https://example.com/course-slides" }
+      { label: "Site", href: "https://danishfurekhdar.github.io/dfdar/" },
+      { label: "Repository", href: "https://github.com/danishfurekhdar/dfdar" }
     ]
   }
 ];
