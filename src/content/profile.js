@@ -1,7 +1,7 @@
 export const profile = {
   name: "Danish Furekh Dar",
   nativeName: "",
-  role: "Assistant Professor",
+  role: "Postdoctoral Researcher",
   organization: "Example University",
   organizationUrl: "https://example.com/",
   location: "City, Country",
