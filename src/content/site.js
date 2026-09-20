@@ -1,9 +1,10 @@
 export const siteMeta = {
   brand: "Danish Furekh Dar",
-  title: "Danish Furekh Dar | Research Profile",
-  description: "Research profile and academic website for Danish Furekh Dar.",
+  title: "Danish Furekh Dar | Theoretical Physicist",
+  description:
+    "Postdoctoral researcher at Shanghai Jiao Tong University specializing in strong-field and laser–matter interactions.",
   socialDescription:
-    "Research profile of Danish Furekh Dar covering publications, projects, teaching, and research interests.",
+    "Theoretical physicist and postdoctoral researcher working on strong-field processes, QED, and laser–matter interactions.",
   url: "https://danishfurekhdar.github.io/dfd/",
   image: "https://avatars.githubusercontent.com/u/68053957?v=4",
   repositoryUrl: "https://github.com/danishfurekhdar/dfd"
