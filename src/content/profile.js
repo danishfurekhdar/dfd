@@ -1,35 +1,29 @@
 export const profile = {
   name: "Danish Furekh Dar",
   nativeName: "",
-  role: "Postdoctoral Researcher",
-  organization: "Example University",
-  organizationUrl: "https://example.com/",
-  location: "City, Country",
-  email: "researcher@example.edu",
+  role: "Researcher",
+  organization: "",
+  organizationUrl: "",
+  location: "Available for collaboration",
+  email: "",
   avatar: "",
   focus: ["Machine Learning", "Human-Computer Interaction", "Data Systems", "Digital Scholarship"],
-  highlightNames: ["Researcher Name"],
+  highlightNames: ["Danish Furekh Dar"],
   about: [
     [
       "I am ",
-      { text: "Researcher Name", strong: true },
-      ", an Assistant Professor at ",
-      { text: "Example University", href: "https://example.com/" },
-      ". My group builds reliable, human-centered computational systems."
+      { text: "Danish Furekh Dar", strong: true },
+      ", a researcher working across computational methods, human-centered systems, and digital scholarship."
     ],
-    "My research spans learning algorithms, interactive tools, data infrastructure, and responsible deployment in real-world settings.",
+    "My work explores the design and study of intelligent systems that are interpretable, useful, and responsible in real-world contexts.",
     [
-      "I am always interested in research collaboration, student mentoring, and open-source academic infrastructure. Contact: ",
-      { text: "researcher@example.edu", href: "mailto:researcher@example.edu" },
+      "I am interested in research collaboration, mentoring, and open, reproducible scientific work. You can find my projects and repositories on ",
+      { text: "GitHub", href: "https://github.com/danishfurekhdar" },
       "."
     ]
   ],
   links: [
-    { label: "Email", href: "mailto:researcher@example.edu", icon: "Email" },
-    { label: "Google Scholar", href: "https://scholar.google.com/", icon: "Scholar" },
-    { label: "ORCID", href: "https://orcid.org/", icon: "ORCID" },
-    { label: "DBLP", href: "https://dblp.org/", icon: "DBLP" },
-    { label: "GitHub", href: "https://github.com/", icon: "GitHub" },
-    { label: "LinkedIn", href: "https://www.linkedin.com/", icon: "LinkedIn" }
+    { label: "GitHub", href: "https://github.com/danishfurekhdar", icon: "GitHub" },
+    { label: "Website", href: "https://danishfurekhdar.github.io/dfd/", icon: "Website" }
   ]
 };
