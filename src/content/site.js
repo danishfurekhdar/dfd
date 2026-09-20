@@ -5,9 +5,9 @@ export const siteMeta = {
     "Athena Personal Academic Page is a configurable academic website framework for researchers.",
   socialDescription:
     "A configurable personal academic page framework for publications, projects, teaching, talks, service, and research metrics.",
-  url: "https://example.com/",
+  url: "https://danishfurekhdar.github.io/dfd/",
   image: "https://example.com/images/athena-og.svg",
-  repositoryUrl: "https://github.com/AaronZ345/Athena-personal-academic-page"
+  repositoryUrl: "https://github.com/danishfurekhdar/dfd"
 };
 
 export const sections = [
